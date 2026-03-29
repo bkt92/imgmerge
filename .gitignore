@@ -1,0 +1,24 @@
+# Build artifacts
+/target/
+**/target/
+
+# Rust debug/release folders
+debug/
+release/
+
+# Cargo lock file (optional - uncomment if you want to commit it)
+# Cargo.lock
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local environment
+.env
